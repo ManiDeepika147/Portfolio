@@ -1,4 +1,4 @@
-# Joginaidu - Portfolio Website
+# Deepika - Portfolio Website
 
 A modern, responsive portfolio website built with React, Vite, and Bootstrap 5.
 
@@ -46,4 +46,5 @@ This project can be deployed to Vercel, Netlify, or any static hosting service.
 - Bootstrap 5
 - React Bootstrap
 - FontAwesome
+
 - EmailJS
